@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(232, 196, 247);
+}
+.main{
+    position:absolute;
+    top:40%;
+    right:40%;
+    
+}
+
+
+  .user-creation{
+      width:500px;
+      margin-left:50px auto 50px auto;
+      margin-left:200px;
+  }
+
+  .send-mail{
+        margin-top:100px;    
+        width:500px;
+        margin-left:50px auto 50px auto;
+        margin-left:200px;
+  }
